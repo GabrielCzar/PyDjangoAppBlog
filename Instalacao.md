@@ -19,7 +19,10 @@
 
 ## Instale o Django no diretorio
 
-	pip install -e django/
+	pip install django==1.8.5
+
+- Obs.: Se necessario atualize com 
+		pip install --upgrade pip
 
 ## Crie um projeto
 	
