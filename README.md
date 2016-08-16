@@ -1,6 +1,6 @@
 # Blog criado com Python e o Framework Django 
 
-Este repositorio foi baseado no tutorial fornecido no site tutorial.djangogirls.org criado pelo grupo Django Girls.
+Este repositorio foi baseado no tutorial fornecido no site [tutorial.djangogirls.org](http://tutorial.djangogirls.org) criado pelo grupo Django Girls.
 
 ## Como contribuir
 
